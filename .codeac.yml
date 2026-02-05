@@ -6,3 +6,4 @@ tools:
         ext: '.js,.jsx,.ts,.tsx'
     tslint:
         enabled: false
+
